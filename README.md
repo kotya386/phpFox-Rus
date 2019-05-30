@@ -4,4 +4,5 @@
 
 Attention translation is not complete!
 Finished translation will be in the folder: "translated"
+
 ///Is end///
