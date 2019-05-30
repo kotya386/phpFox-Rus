@@ -28,33 +28,33 @@ Settings are split up into 3 groups, which are <b>Global Setting</b>, <b>Module 
 <b>Module Setting</b> are settings that belong to the specific module it is used in. The setting can still be accessed across other modules, however these settings are intended to be used only in the specific module it was created for.
 
 <b>Product Setting</b> are settings that belong to 3rd party products.]]></phrase>
-	<phrase var_name="setting_details" added="1559056209">Setting Details</phrase>
-	<phrase var_name="group" added="1559056209">Groups</phrase>
-	<phrase var_name="app_a37ede293936e29279ed543129451ec3" added="1559056209">Groups</phrase>
-	<phrase var_name="app_537c66b24ef5c83b7382cdc3f34885f2" added="1559056209">Year</phrase>
+	<phrase var_name="setting_details" added="1559056209">Детали настройки</phrase>
+	<phrase var_name="group" added="1559056209">Группы</phrase>
+	<phrase var_name="app_a37ede293936e29279ed543129451ec3" added="1559056209">Группы</phrase>
+	<phrase var_name="app_537c66b24ef5c83b7382cdc3f34885f2" added="1559056209">Год</phrase>
 	<phrase var_name="app_b6b89d06732df0b906dde6d5eda6132d" added="1559056209">Facebook Base</phrase>
-	<phrase var_name="global_settings" added="1559056209">Global Settings</phrase>
-	<phrase var_name="module_settings" added="1559056209">Module Settings</phrase>
-	<phrase var_name="product_settings" added="1559056209">Product Settings</phrase>
-	<phrase var_name="variable" added="1559056209">Variable</phrase>
-	<phrase var_name="type" added="1559056209">Type</phrase>
-	<phrase var_name="string" added="1559056209">String</phrase>
-	<phrase var_name="boolean" added="1559056209">Boolean</phrase>
-	<phrase var_name="integer" added="1559056209">Integer</phrase>
-	<phrase var_name="array" added="1559056209">Array</phrase>
-	<phrase var_name="defined_drop_down" added="1559056209">Defined Drop-Down</phrase>
-	<phrase var_name="value" added="1559056209">Value</phrase>
+	<phrase var_name="global_settings" added="1559056209">Глобальные настройки</phrase>
+	<phrase var_name="module_settings" added="1559056209">Настройки модулей</phrase>
+	<phrase var_name="product_settings" added="1559056209">Настройки продуктов</phrase>
+	<phrase var_name="variable" added="1559056209">Переменная</phrase>
+	<phrase var_name="type" added="1559056209">Тип</phrase>
+	<phrase var_name="string" added="1559056209">Строка</phrase>
+	<phrase var_name="boolean" added="1559056209">Логический</phrase>
+	<phrase var_name="integer" added="1559056209">Целое число</phrase>
+	<phrase var_name="array" added="1559056209">Массив</phrase>
+	<phrase var_name="defined_drop_down" added="1559056209">Определенный раскрывающийся список</phrase>
+	<phrase var_name="value" added="1559056209">Значение</phrase>
 	<phrase var_name="app_5eea09cc20f55aa6c035fe4ff41489a4" added="1559056209"><![CDATA[Email can't send.]]></phrase>
-	<phrase var_name="language_package_details" added="1559056209">Language Package Details</phrase>
-	<phrase var_name="title" added="1559056209">Title</phrase>
-	<phrase var_name="info" added="1559056209">Info</phrase>
-	<phrase var_name="submit" added="1559056209">Submit</phrase>
-	<phrase var_name="app_0cbc6611f5540bd0809a388dc95a615b" added="1559056209">Test</phrase>
-	<phrase var_name="true" added="1559056209">True</phrase>
-	<phrase var_name="false" added="1559056209">False</phrase>
+	<phrase var_name="language_package_details" added="1559056209">Детали языкового пакета</phrase>
+	<phrase var_name="title" added="1559056209">Заглавие</phrase>
+	<phrase var_name="info" added="1559056209">Информация</phrase>
+	<phrase var_name="submit" added="1559056209">Отправить</phrase>
+	<phrase var_name="app_0cbc6611f5540bd0809a388dc95a615b" added="1559056209">Тест</phrase>
+	<phrase var_name="true" added="1559056209">Правда</phrase>
+	<phrase var_name="false" added="1559056209">Лож</phrase>
 	<phrase var_name="setting_array_example" added="1559056209"><![CDATA[Example: array("val1", "val2", "val3");]]></phrase>
 	<phrase var_name="setting_check_certificate_smtp_host_name" added="1559056209"><![CDATA[<title>Check certificate SMTP host name</title><info>Check ssl certificate of your SMTP host name. If it does not use valid certificate, email can't be sent</info>]]></phrase>
-	<phrase var_name="setting_drop_down_example" added="1559056209">Separate drop downs with commas. The first drop down will be the default drop down. (Example: drop1, drop2, drop3)</phrase>
+	<phrase var_name="setting_drop_down_example" added="1559056209">Отдельные выпадающие списки с запятыми. Первый выпадающий список будет выпадающим по умолчанию. (Пример: drop1, drop2, drop3)</phrase>
 	<phrase var_name="setting_add_var" added="1559056209"><![CDATA[The <b>Variable</b> of your new setting is how you will identify and call this specific setting and return the given value.
 
 If you create a <b>Variable</b> with <b>foo</b> it can be used later within the PHP script as:
