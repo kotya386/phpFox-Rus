@@ -64,7 +64,7 @@ echo App::getParam('foo');
 The above code will print out the value of foo.
 
 Note that if you add spacing or unsupported characters (alphanumeric support only) to your <b>Variable</b> it will automatically be renamed to fit the standards, which we will replace all unsupported characters or spaces with an underscore.]]></phrase>
-	<phrase var_name="admincp_help" added="1559056209">AdminCP Help</phrase>
+	<phrase var_name="admincp_help" added="1559056209">Помощь с АдПУ</phrase>
 	<phrase var_name="setting_add_type" added="1559056209"><![CDATA[Settings can be stored as a String, Boolean, Integer, Array or a Defined Drop-Down value.
 
 <b><u>String</u></b>
